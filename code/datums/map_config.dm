@@ -18,8 +18,8 @@
 	var/map_path = "map_files/vanderlin"
 	var/map_file = "vanderlin.dmm"
 	var/immigrant_origin = "Temporal Lands"
-	var/monarch_title = "Grand Doge"
-	var/monarch_title_f = "Grand Doge"
+	var/monarch_title = "Maggiore"
+	var/monarch_title_f = "Maggiore"
 
 	var/traits = null
 	var/space_ruin_levels = 7

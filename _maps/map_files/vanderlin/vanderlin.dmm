@@ -6236,7 +6236,7 @@
 /area/rogue/indoors/town/manor/feast)
 "dRm" = (
 /obj/structure/throne{
-	name = "Throne of Vanderlin"
+	name = "Throne of New Palmos"
 	},
 /obj/structure/fake_machine/titan{
 	pixel_y = 32

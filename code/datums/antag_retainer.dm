@@ -59,7 +59,7 @@
 	var/lord_dead = FALSE
 	for(var/mob/living/carbon/human/H in GLOB.human_list)
 		if(H.mind)
-			if(H.job == "Doge")
+			if(H.job == "Maggiore")
 				lord_found = TRUE
 				if(H.stat == DEAD)
 					lord_dead = TRUE

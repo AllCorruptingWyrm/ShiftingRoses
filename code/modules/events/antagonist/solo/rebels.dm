@@ -21,7 +21,7 @@
 	weight = 4
 
 	restricted_roles = list(
-		"Doge",
+		"Maggiore",
 		"Consort",
 		"Hand",
 		"Captain",

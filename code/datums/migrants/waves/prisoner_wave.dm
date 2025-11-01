@@ -156,4 +156,4 @@
 		/datum/migrant_role/gaoler = 1,
 		/datum/migrant_role/mig_prisoner = 1,
 	)
-	greet_text = "Nobody escape the rule of Vanderlin's monarchs. Some have fled to the neighbouring kingdom, Heartfelt and got caught, they are now on their way back."
+	greet_text = "Nobody escape the rule of New Palmos's Grand Doge. Some have fled to the neighbouring kingdom, Heartfelt and got caught, they are now on their way back."

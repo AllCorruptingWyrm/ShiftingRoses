@@ -34,7 +34,7 @@ SUBSYSTEM_DEF(familytree)
 		"Prince",
 		"Princess",
 		"Consort",
-		"Doge",
+		"Maggiore",
 		"Hand",
 		"Inquisitor",
 		"Adept",

@@ -223,7 +223,7 @@
 		/datum/migrant_role/grenzelhoft/countess = 1,
 		/datum/migrant_role/grenzelhoft/grenzelhoft_knight = 1,
 		/datum/migrant_role/grenzelhoft/grenzelhoft_men_at_arms = 2)
-	greet_text = "The Kaiser of the Grenzelhoft Imperiate has sent a diplomatic envoy to engage into diplomacy within the Kingdom of Vanderlin."
+	greet_text = "The Kaiser of the Grenzelhoft Imperiate has sent a diplomatic envoy to engage into diplomacy within the Republic of New Palmos"
 
 /datum/migrant_wave/grenzelhoft_visit_down
 	name = "The Grenzelhoft visit"
@@ -234,4 +234,4 @@
 		/datum/migrant_role/grenzelhoft/count = 1,
 		/datum/migrant_role/grenzelhoft/countess = 1,
 		/datum/migrant_role/grenzelhoft/grenzelhoft_knight = 1)
-	greet_text = "The Kaiser of the Grenzelhoft Imperiate has sent a diplomatic envoy to engage into diplomacy within the Kingdom of Vanderlin."
+	greet_text = "The Kaiser of the Grenzelhoft Imperiate has sent a diplomatic envoy to engage into diplomacy within the Republic of New Palmos"

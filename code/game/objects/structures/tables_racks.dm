@@ -304,7 +304,7 @@
 
 /obj/structure/table/map/vanderlin
 	icon_state = "map_vanderlin"
-	desc = "A table displaying a map of Vanderlin and Daftmarsh."
+	desc = "A table displaying a map of New Palmos and Daftmarsh."
 
 /obj/structure/table/map/rosewood
 	icon_state = "map_rosewood"

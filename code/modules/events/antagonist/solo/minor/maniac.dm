@@ -11,7 +11,7 @@
 	minor_roleset = TRUE
 
 	restricted_roles = list(
-		"Doge",
+		"Maggiore",
 		"Consort",
 		"Priest",
 		"Captain",
